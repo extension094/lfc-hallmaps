@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Liverpool v Nottingham Forest",
+    "url": "https://ticketing.liverpoolfc.com/en-GB/events/liverpool%20v%20nottingham%20forest/2024-9-14_15.00/anfield?hallmap"
+  },
+  {
+    "title": "Liverpool v AFC Bournemouth",
+    "url": "https://ticketing.liverpoolfc.com/en-GB/events/liverpool%20v%20afc%20bournemouth/2024-9-21_15.00/anfield?hallmap"
+  },
+  {
+    "title": "AC Milan v Liverpool",
+    "url": "https://ticketing.liverpoolfc.com/events/ac%20milan%20v%20liverpool/2024-9-17_20.00/san%20siro"
+  },
+  {
+    "title": "Liverpool v West Ham United (EFL Cup)",
+    "url": "https://ticketing.liverpoolfc.com/en-GB/events/liverpool%20v%20west%20ham%20united%20(efl%20cup)/2024-9-25_20.00/anfield?hallmap"
+  },
+  {
+    "title": "Wolverhampton Wanderers v Liverpool",
+    "url": "https://ticketing.liverpoolfc.com/en-GB/events/wolverhampton%20wanderers%20v%20liverpool/2024-09-28_17.30/molineux?hallmap"
+  },
+  {
+    "title": "Liverpool v Bologna FC 1901",
+    "url": "https://ticketing.liverpoolfc.com/en-GB/events/liverpool%20v%20bologna%20fc%201901/2024-10-2_20.00/anfield?hallmap"
+  },
+  {
+    "title": "Crystal Palace v Liverpool",
+    "url": "https://ticketing.liverpoolfc.com/events/crystal%20palace%20v%20liverpool/2024-10-5_12.30/selhurst%20park"
+  },
+  {
+    "title": "Liverpool v Chelsea",
+    "url": "https://ticketing.liverpoolfc.com/en-GB/events/liverpool%20v%20chelsea/2024-10-19_15.00/anfield?hallmap"
+  },
+  {
+    "title": "Arsenal v Liverpool",
+    "url": "https://ticketing.liverpoolfc.com/events/arsenal%20v%20liverpool/2024-10-27_16.30/emirates%20stadium"
+  },
+  {
+    "title": "Liverpool v Brighton & Hove Albion",
+    "url": "https://ticketing.liverpoolfc.com/en-GB/events/liverpool%20v%20brighton%20-%20hove%20albion/2024-11-2_15.00/anfield?hallmap"
+  },
+  {
+    "title": "Liverpool v Bayer 04 Leverkusen",
+    "url": "https://ticketing.liverpoolfc.com/en-GB/events/liverpool%20v%20bayer%2004%20leverkusen/2024-11-5_20.00/anfield?hallmap"
+  },
+  {
+    "title": "Liverpool v Aston Villa",
+    "url": "https://ticketing.liverpoolfc.com/en-GB/events/liverpool%20v%20aston%20villa/2024-11-9_15.00/anfield?hallmap"
+  },
+  {
+    "title": "Southampton v Liverpool",
+    "url": "https://ticketing.liverpoolfc.com/events/southampton%20v%20liverpool/2024-11-23_15.00/st%20mary's"
+  },
+  {
+    "title": "Liverpool v Real Madrid",
+    "url": "https://ticketing.liverpoolfc.com/en-GB/events/liverpool%20v%20real%20madrid/2024-11-27_20.00/anfield?hallmap"
+  },
+  {
+    "title": "Liverpool v Manchester City",
+    "url": "https://ticketing.liverpoolfc.com/en-GB/events/liverpool%20v%20manchester%20city/2024-11-30_15.00/anfield?hallmap"
+  },
+  {
+    "title": "Liverpool v Fulham",
+    "url": "https://ticketing.liverpoolfc.com/en-GB/events/liverpool%20v%20fulham/2024-12-14_15.00/anfield?hallmap"
+  },
+  {
+    "title": "Liverpool v Leicester City",
+    "url": "https://ticketing.liverpoolfc.com/en-GB/events/liverpool%20v%20leicester%20city/2024-12-26_15.00/anfield?hallmap"
+  },
+  {
+    "title": "Liverpool v Manchester United",
+    "url": "https://ticketing.liverpoolfc.com/en-GB/events/liverpool%20v%20manchester%20united/2025-1-4_15.00/anfield?hallmap"
+  },
+  {
+    "title": "Liverpool v LOSC Lille",
+    "url": "https://ticketing.liverpoolfc.com/en-GB/events/liverpool%20v%20losc%20lille/2025-1-21_20.00/anfield?hallmap"
+  },
+  {
+    "title": "Liverpool v Ipswich Town",
+    "url": "https://ticketing.liverpoolfc.com/en-GB/events/liverpool%20v%20ipswich%20town/2025-1-25_15.00/anfield?hallmap"
+  },
+  {
+    "title": "Liverpool v Wolverhampton Wanderers",
+    "url": "https://ticketing.liverpoolfc.com/en-GB/events/liverpool%20v%20wolverhampton%20wanderers/2025-2-15_15.00/anfield?hallmap"
+  },
+  {
+    "title": "Liverpool v Newcastle United",
+    "url": "https://ticketing.liverpoolfc.com/en-GB/events/liverpool%20v%20newcastle%20united/2025-2-26_20.00/anfield?hallmap"
+  },
+  {
+    "title": "Liverpool v Southampton",
+    "url": "https://ticketing.liverpoolfc.com/en-GB/events/liverpool%20v%20southampton/2025-3-8_15.00/anfield?hallmap"
+  },
+  {
+    "title": "Liverpool v Everton",
+    "url": "https://ticketing.liverpoolfc.com/en-GB/events/liverpool%20v%20everton/2025-4-2_20.00/anfield?hallmap"
+  },
+  {
+    "title": "Liverpool v West Ham United",
+    "url": "https://ticketing.liverpoolfc.com/en-GB/events/liverpool%20v%20west%20ham%20united/2025-4-12_15.00/anfield?hallmap"
+  },
+  {
+    "title": "Liverpool v Tottenham Hotspur",
+    "url": "https://ticketing.liverpoolfc.com/en-GB/events/liverpool%20v%20tottenham%20hotspur/2025-4-26_15.00/anfield?hallmap"
+  },
+  {
+    "title": "Liverpool v Arsenal",
+    "url": "https://ticketing.liverpoolfc.com/en-GB/events/liverpool%20v%20arsenal/2025-5-10_15.00/anfield?hallmap"
+  }
+]
